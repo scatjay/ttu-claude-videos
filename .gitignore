@@ -1,0 +1,15 @@
+manifest.json
+ocr_report.json
+refs.json
+_held/
+ocr_summary.json
+ocr_report_*.json
+_tools/
+loop.log
+state.json
+last_build.json
+full_*.jsonl
+*.new.mp4
+loop.log
+pipe*.log
+*.log
